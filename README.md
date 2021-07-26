@@ -2,9 +2,9 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-lorenz-06918169/)
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sb4hPQMAAAAJ&hl=en)
 
-I'm a PhD student at the 
+I'm a PhD student at the University of Heidelberg.
 
-Support my open source projects by donating: [![PayPal]()]()
+Support my open source projects by donating: [![PayPal](https://paypal.me/pools/c/8BvSQIFkJm)](https://paypal.me/pools/c/8BvSQIFkJm)
 
 ---
 
