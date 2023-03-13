@@ -11,4 +11,6 @@ Support my open source projects by donating: [![PayPal](https://camo.githubuserc
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jS5t3r&theme=default&show_icons=true" />
 
 
-<script src="https://tryhackme.com/badge/1768902"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/lorenz.pet.png" alt="TryHackMe">
+
+
