@@ -7,7 +7,7 @@ Support my open source projects by donating: [![PayPal](https://camo.githubuserc
 
 ---
 
-<!---  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jS5t3r&count_private=true&show_icons=true&theme=dark" />  --->
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=jS5t3r&count_private=true&show_icons=true&theme=dark" />  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jS5t3r&theme=default&show_icons=true" />
 
 
