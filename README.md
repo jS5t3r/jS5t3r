@@ -2,6 +2,13 @@
 
 I am very interested in AI research and also had to chance to publish some papers. Some readings and thoughts posts from time to time on LinkedIn. 
 
+My research outcome
+ - I invented a test-time defense prompt technique (model reprogramming), being the first to my knowledge.
+ - I found that multimodal latent diffusions are different from small perturbations.
+ - I improved adversarial examples outlier detection by creating a dataset through open-source contribution (OpenOOD) and wrote light-weight detectors with extended evaluations.
+
+Research interests: Model robustness, reasoning, test-time learning, autonomous systems, foundation models, pattern recognition, large-scale AI, multimodality, self-improving architectures, and AGI.
+
 <!--- [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://lorenz-peter.github.io/) --->
 <!--- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-lorenz-06918169/) --->
 <!--- [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sb4hPQMAAAAJ&hl=en) --->
