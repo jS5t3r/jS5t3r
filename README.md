@@ -14,7 +14,7 @@ Research interests: Model robustness, reasoning, test-time learning, autonomous 
 <!--- [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sb4hPQMAAAAJ&hl=en) --->
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
+   <a href="https://www.linkedin.com/in/peter-lorenz-06918169">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <!-- <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
@@ -33,7 +33,7 @@ Research interests: Model robustness, reasoning, test-time learning, autonomous 
 - 🌱 I’m currently learning agengtic AI and evolutionary AI.
 - 👯 I’m looking to collaborate on ML research projects. (Collaborate with other AI-obsessed people and create something new.)
 - 🤔 I’m looking for help with mock interviews.
-- ⚡ Fun fact: I won a tournament in kickboxing.
+- ⚡ Fun fact: I won a tournament in kickboxing. 
 <!---- 💬 Ask me about ... --->
 <!---- 📫 How to reach me: ... --->
 <!--- - 😄 Pronouns: ...  --->
