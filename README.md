@@ -23,7 +23,7 @@ I am very interested in AI research and also had to chance to publish some paper
 ---
 
 - 🔭 I’m currently working on transformers and foundation models.
-- 🌱 I’m currently learning evolutionary AI.
+- 🌱 I’m currently learning agengtic AI and evolutionary AI.
 - 👯 I’m looking to collaborate on ML research projects.
 - 🤔 I’m looking for help with mock interviews.
 - ⚡ Fun fact: I won a tournament in kickboxing.
