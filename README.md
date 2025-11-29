@@ -1,6 +1,6 @@
 # Hi, I'm Peter 👋
 
-I am very interested in AI research and also had to chance to publish some papers. Some readings and thoughts posts from time to time on LinkedIn. 
+I am very interested in AI research. I share some thoughts on papers on LinkedIn from time to time. I completed my PhD in Machine Learning, focusing on the limitations of current ML models.
 
 My research outcome
  - I invented a test-time defense prompt technique (model reprogramming), being the first to my knowledge.
@@ -31,7 +31,7 @@ Research interests: Model robustness, reasoning, test-time learning, autonomous 
 
 - 🔭 I’m currently working on transformers and foundation models.
 - 🌱 I’m currently learning agengtic AI and evolutionary AI.
-- 👯 I’m looking to collaborate on ML research projects.
+- 👯 I’m looking to collaborate on ML research projects. (Collaborate with other AI-obsessed people and create something new.)
 - 🤔 I’m looking for help with mock interviews.
 - ⚡ Fun fact: I won a tournament in kickboxing.
 <!---- 💬 Ask me about ... --->
