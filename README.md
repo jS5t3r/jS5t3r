@@ -1,9 +1,10 @@
 # Hi, I'm Peter 👋
 
+I am very interested in AI research and also had to chance to publish some papers. Some readings and thoughts posts from time to time on LinkedIn. 
+
 <!--- [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://lorenz-peter.github.io/) --->
 <!--- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-lorenz-06918169/) --->
 <!--- [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sb4hPQMAAAAJ&hl=en) --->
-
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/romankh3/">
@@ -22,10 +23,10 @@
 ---
 
 - 🔭 I’m currently working on transformers and foundation models.
-- 🌱 I’m currently learning evolutionary AI. 
+- 🌱 I’m currently learning evolutionary AI.
 - 👯 I’m looking to collaborate on ML research projects.
-- 🤔 I’m looking for help with ... 
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with mock interviews.
+- ⚡ Fun fact: I won a tournament in kickboxing.
 <!---- 💬 Ask me about ... --->
 <!---- 📫 How to reach me: ... --->
 <!--- - 😄 Pronouns: ...  --->
