@@ -32,7 +32,7 @@ Research interests: Model robustness, reasoning, test-time learning, autonomous 
 - 🔭 I’m currently working on transformers and foundation models.
 - 🌱 I’m currently learning agengtic AI and evolutionary AI.
 - 👯 I’m looking to collaborate on ML research projects. (Collaborate with other AI-obsessed people and create something awsome.)
-- 🤔 I’m looking for help with mock interviews.
+- 🤔 I’m looking for mock interview practice.
 - ⚡ Fun fact: I won a tournament in kickboxing. 
 <!---- 💬 Ask me about ... --->
 <!---- 📫 How to reach me: ... --->
