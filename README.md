@@ -3,9 +3,9 @@
 I am very interested in AI research. I share some thoughts on papers on LinkedIn from time to time. I completed my PhD in Machine Learning, focusing on the limitations of current ML models.
 
 My research outcome
- - I invented a test-time defense prompt technique (model reprogramming), being the first to my knowledge.
- - I found that multimodal latent diffusions are different from small perturbations.
- - I improved adversarial examples outlier detection by creating a dataset through open-source contribution (OpenOOD) and wrote light-weight detectors with extended evaluations.
+ - I invented a test-time defense prompt technique (model reprogramming), being the first to my knowledge. [Link](https://arxiv.org/pdf/2210.06284)
+ - I found that multimodal latent diffusions are different from small perturbations. [Link](https://ieeexplore.ieee.org/abstract/document/10650024)
+ - I improved adversarial examples outlier detection by creating a dataset through open-source contribution (OpenOOD) and wrote light-weight detectors with extended evaluations. [Link](https://arxiv.org/pdf/2406.15104)
 
 Research interests: Model robustness, reasoning, test-time learning, autonomous systems, foundation models, pattern recognition, large-scale AI, multimodality, self-improving architectures, and AGI.
 
