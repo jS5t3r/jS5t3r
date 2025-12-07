@@ -7,7 +7,7 @@ My research outcome
  - I found that multimodal latent diffusions are different from small perturbations. [Link](https://ieeexplore.ieee.org/abstract/document/10650024)
  - I improved adversarial examples outlier detection by creating a dataset through open-source contribution (OpenOOD) and wrote light-weight detectors with extended evaluations. [Link](https://arxiv.org/pdf/2406.15104)
 
-Research interests: Model robustness, reasoning, test-time learning, autonomous systems, foundation models, pattern recognition, large-scale AI, multimodality, self-improving architectures, and AGI.
+Research interests: Model robustness, reasoning, deepfake, test-time learning, autonomous systems, foundation models, pattern recognition, large-scale AI, multimodality, self-improving architectures, and AGI.
 
 <!--- [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://lorenz-peter.github.io/) --->
 <!--- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-lorenz-06918169/) --->
