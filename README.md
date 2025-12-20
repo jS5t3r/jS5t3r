@@ -1,13 +1,13 @@
 # Hi, I'm Peter 👋
 
-I am very interested in AI research. I share some thoughts on papers on LinkedIn from time to time. I completed my PhD in Machine Learning, focusing on the limitations of current ML models.
+I am a PhD in Machine Learning specialized in identifying and addressing the limitations of modern ML models. Beyond my research, I enjoy distilling complex AI papers into actionable insights for the community on LinkedIn.
 
 My research outcome
- - I invented a test-time defense prompt technique (model reprogramming), being the first to my knowledge. [Link](https://arxiv.org/pdf/2210.06284)
- - I found that multimodal latent diffusions are different from small perturbations. [Link](https://ieeexplore.ieee.org/abstract/document/10650024)
- - I improved adversarial examples outlier detection by creating a dataset through open-source contribution (OpenOOD) and wrote light-weight detectors with extended evaluations. [Link](https://arxiv.org/pdf/2406.15104)
+ - Test-time defense through model reprogramming – First prompt-based defense technique of its kind.  [Link](https://arxiv.org/pdf/2210.06284)
+ - Multimodal robustness analysis – Demonstrated that latent diffusion models exhibit distinct vulnerability patterns compared to traditional perturbation-based attacks. [Link](https://ieeexplore.ieee.org/abstract/document/10650024)
+ - Adversarial detection at scale – Created an open-source benchmark dataset (OpenOOD contribution) and developed lightweight detectors with comprehensive evaluation frameworks. [Link](https://arxiv.org/pdf/2406.15104)
 
-Research interests: Model robustness, reasoning, deepfake, test-time learning, autonomous systems, foundation models, pattern recognition, large-scale AI, multimodality, self-improving architectures, and AGI.
+Research interests: Model robustness • reasoning • deepfake • test-time learning • autonomous systems • foundation models • pattern recognition • large-scale AI • multimodality • self-improving architectures • AGI.
 
 <!--- [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://lorenz-peter.github.io/) --->
 <!--- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-lorenz-06918169/) --->
